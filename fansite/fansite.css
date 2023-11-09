@@ -1,0 +1,223 @@
+.acceuilbackground {
+    background-image: url(https://i.ytimg.com/vi/hj5UzK4baBo/maxresdefault.jpg);
+
+}
+
+.navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: space-between;
+    background-color: rgb(33, 32, 32);
+
+}
+
+body {
+    padding: 0%;
+    margin: 0%;
+}
+
+.acceuil {
+    color: red;
+}
+
+.projet {
+    color: red;
+}
+
+.Concert {
+    color: red;
+}
+
+.réseaux {
+    color: red;
+}
+
+.Biographie {
+    color: red;
+}
+.Recherche{
+    display: flex;
+    float: right;
+    justify-content: right;
+    font-size: large;
+}
+.nav-icon{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+    justify-content: right;
+}
+.nav-icon img {
+    max-width: 10%;
+
+
+}
+.h1 {
+    color: red;
+}
+
+.p {
+    color: white;
+    font-size: 110%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.image {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: space-between;
+}
+
+.backgroundBiographie {
+    background-image: url(images/mS3.jpg);
+    background-size: cover;
+
+}
+
+.p1 {
+    color: white;
+}
+
+.p2 {
+    color: white;
+}
+
+.p3 {
+    color: white;
+
+}
+
+.h2 {
+    color: red;
+}
+
+.p4 {
+    color: white;
+}
+
+.p5 {
+    color: white;
+}
+
+.h22 {
+    color: red;
+}
+
+.p6 {
+    color: white;
+}
+
+.h1B {
+    color: red;
+}
+
+.backgroundprojet {
+    background-image: url(images/backgroundmS.jpg);
+    background-size: cover;
+}
+
+.h1p {
+    color: red;
+}
+
+.pProjet {
+    color: white;
+}
+
+.pProjet2 {
+    color: white;
+}
+
+.h1p2 {
+    color: red;
+}
+
+.projet3 {
+    color: white;
+}
+
+.h1p3 {
+    color: red;
+}
+
+.projet4 {
+    color: white;
+}
+
+.h1p4 {
+    color: red;
+}
+
+.projet5 {
+    color: white;
+}
+
+.h1p5 {
+    color: red;
+}
+
+.projet6 {
+    color: white;
+}
+
+.h1p6 {
+    color: red;
+}
+
+.projet7 {
+    color: white;
+}
+.backgroundConcert {
+    background-image: url(images/mSConcert.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h1b {
+    color: red;
+}
+.pBataclan {
+    color: white;
+}
+.ardentes {
+    color: red;
+}
+.pArdentes {
+    color: white;
+}
+.reseauxbackground {
+    background-image: url(images/menace.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.instagram {
+    color: red;
+    
+}
+.h1s {
+    color: red;
+}
+.insta{
+    color:white
+ 
+}
+.insta2 {
+    color: white;
+   margin: 10%;
+
+}
+.instagram2{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: space-between;
+}
+.reseau1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
